@@ -3,4 +3,4 @@ engine = pyttsx3.init()
 
 engine.say("Your Text")
 
-engine.runAndWait()
+#engine.runAndWait()
